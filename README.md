@@ -1,2 +1,2 @@
 # qribo
-Real Estate App built on Laravel, React, InertiaJS. Motion animation with GSAP.
+Real Estate App built on Laravel, React, InertiaJS. Motion animation with GSAP. Great stuff
